@@ -1,4 +1,4 @@
 .env
 nodebird/*
 node_modules
-config.json
+*/config/config.json
